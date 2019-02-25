@@ -167,7 +167,7 @@ p3 {
 .links {
   opacity: 0.5;
   height: 25px;
-  padding-left: 10px;
+  margin-left: 10px;
   transition: .3s ease;
 }
 .links:hover {
@@ -181,6 +181,10 @@ p3 {
 
 #bitemoji {
   height: 120px;
+}
+#itch.linksBox{
+  top: 200px !important;
+  right: 60px !important;
 }
 
 @media only screen and (max-width: 1000px) {
